@@ -2707,7 +2707,7 @@ module.exports = [
     description:
       'A figure skater who won Olympic gold in 1988, but is perhaps now most famous as a semi-recurring character in the South Park franchise. In their feature film, the boys parody him as inspirational figure with a song that references “What Would Jesus Do?"',
     category: 'CELEBRITY',
-    pointValue: 1234
+    pointValue: 3
   },
   {
     name: 'Lisa “Left Eye” Lopes',
@@ -3092,7 +3092,7 @@ module.exports = [
     description:
       'A thought experiment where this feline is both alive and dead due to quantum entanglement. It was originally used to critique an interpretation of quantum mechanics, but now appears often in popular culture, ranging from A Serious Man to Yu-Gi-Oh! GX.',
     category: 'HISTORICAL FIGURE',
-    pointValue: 1234
+    pointValue: 3
   },
   {
     name: 'A Top',
@@ -3317,6 +3317,1491 @@ module.exports = [
       'The title character and Bond girl in the 13th film of the series. She leads a cephalopod cult and circus troupe from a floating palace in Udaipur, India, which is inexplicably part of an Afghan plot to force European disarmament by using a nuclear weapon.',
     category: 'FICTIONAL CHARACTER',
     pointValue: 3
+  },
+  {
+    name: 'All the single ladies',
+    description:
+      'Every woman who is either unmarried or not involved in a long-term relationship, as described in Beyoncé\'s 2008 song. In the song, she laments the inability of men to propose marriage, and suggests that "if you like it then you should put a ring on it."',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'A dingo',
+    description:
+      'A free-ranging dog found in Australia. In 1980, one killed the baby of Lindy Chamberlain. Ms. Chamberlin\'s statement, that the animal "ate my baby," was popularized by Meryl Streep in the 1988 film Evil Angels. The line remains widely parodied to this day.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'General Tso',
+    description:
+      'A Chinese military leader, who is most famous for the sweet, spicy, deep-fried dish that bears his name – although there is no evidence that he ever ate it himself. One theory is that the recipe originated from a Hunan dish called "ancestral meeting hall chicken".',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 1
+  },
+  {
+    name: 'A piñata',
+    description:
+      'A decorative container made from papier-mâché that is filled with candy and broken at a party. While associated with Mexico, similar traditions include India\'s "pot breaking with blindfolds," Denmark\'s "hit the cat out of the barrel," and Catalonia\'s "make the log defecate."',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Guv\'na',
+    description:
+      'An informal name sometimes used in a British greeting, otern used in reference to someone perceived as holding higher social status. It is also typically preceded by the word "Ello" and is associated with Cockney speakers',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Ol\' Dirty Bastard',
+    description:
+      'The moniker of Russel Jones, a rapper and founding member of the Wu-Tang Clan. His solo career peaked with the hit "Got Your Money." He died five years later from a drug overdose, having consumed a lethal combination of cocaine and the pain reliever tramadol.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Eggplant Wizard',
+    description:
+      'An aubergine-shaped, cyclopian enemy in the kid Icarus series of video games. It\'s special ability turns the protagonist, Pit, into a man-sized version of this purple vegetable. While this does disable all the forms of attack, it does not inhibit his ability to move around and dodge.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Vagina dentata',
+    description:
+      'The latin term for a folk belief that a woman\'s reproductive organ contains teeth. The concept, and its implied connection between sexual intercourse and castration, was central to Freud\'s description of the cannibalistic stage of the infantile libido.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Meatloaf',
+    description:
+      'The moniker of the musician Micheal Aday. His song "I\'d Do Anything for Love" is often believed to be about his refusal to perform cunnilingus. His stage name is also a reference to the food made out of bread and ground meats that is typically covered in ketchup',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'A Jabberwocky',
+    description:
+      'The title character of a nonsense poem by Lewis Carroll that begins: Twas brillig, and the slithy toves Did gyre and gimble in the wabe; All mimsy were the borogoves, And the mome raths outgrabe.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Wavy Tube Man',
+    description:
+      'An inflatable device consisting of a long, hollow piece of fabric shaped like a person and attached to a fan. Also known as an airdancer, when the fan is turned on, the fabric move around in a spastic dancing motion. They were originally invented for the 1996 Olympics.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A pound of flesh',
+    description:
+      'The interest demanded by the moneylender Shylock in Shakespeare\'s The Merchant of Venice. When the character Antonio defaults on a loan, he demands this amount of tissue from next to his heart in revenge for being insulted and spat upon earlier in the play.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'The Lady of the Lake',
+    description:
+      'The moniker of the creature or creatures who rule Avalon in Arthurian legend. Some of her many roles include giving King Arthur the sword Excaliber, enchanting Merlin, and testing Sonic the Hedghog\'s worthiness to become a knight.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'A hug from myself',
+    description:
+      'An embrace of one\'s own',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Tommy John',
+    description:
+      'A baseball player and nameake of a famous surgical procedure—ulnar collateral ligament reconstruction—where a ligament in the elbow is replaced with a tendon from the forearm. The procedure is associated mostly with major league baseball pitchers.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Lionel Ritchie',
+    description:
+      'One of the best-selling musicians of all time. He is perhaps most remembered for the video to his hit 1984 song "Hello," where a blind woman sculpts a bust of his head from clay, while he asks "Is it me you\'re looking for?"',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'John Cage',
+    description:
+      'An avant garde composer most famous for the piece 4\'33\". In it, musicians do not produce sound, leading to the misunderstanding that the piece is about silence. The actual intent is to encourage listeners to observe the sounds of the performace environment.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+  {
+    name: 'Hieronymus Bosch',
+    description:
+      'A 15th century Dutch painter, who depicted fantastical images of hell. His most famous painting, The Garden of Earthly Delights, is a triptych that includes, among other things, a "600-year-old butt song from Hell": sheet music incribed on the ass of a sinner.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'MacGruber',
+    description:
+      'A character played by Will Forte in a recurring SNL sketch that parodies a special agent who solves problems by making clever devices out of whatever is at hand. In each sketch the character fails to defuse a bomb after becoming distracted by personal issues and dies.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'A private dick',
+    description:
+      'Old timey slang for the person people hire to solve mysteries for them. The use of the word to mean detective likely comes from either a slang version of the Romany meaning "to look, to see," or the name of J.E. Preston Muddock\'s "Glasgow Detective."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Robert Durst',
+    description:
+      'Heir to a real estate fortune, who has been a suspect in multiple murders. He was the title subject in the Jinx, where in the climactic final episode he was recorded on a hot mic whispering to himself in the bathroom, "What the hell did I do?" Killed them all, of course.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'The hive mind',
+    description:
+      'THe apparent collective conciousness that emerges in colonies of social insects, or is speculated about in science fiction narritives, with examples ranging from The Borg in the Star Trek franchise to Xenomorphs in the Alien franchise.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Jamiroquai',
+    description:
+      'A British band most famous for their hit "Virtual Insanity." In the music video, the lead singer Jay Kay wears an oversized fuzzy black hat and dances on a moving floor. Kay is perhaps best known for his wide array of headgear, including a mirrored feather headdress.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'An ASMR whisperer',
+    description:
+      'A person who creates videos for people who experience Autonomous Sensory Meridian Response. These creators typically trigger their audience\'s condition with quiet vocal sounds and crinkling paper. Some have trademarked triggers, e.g. their use of the word "stipple."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The Thong Song',
+    description:
+      'A hit music track by the R&B artist Sisqó about a style of underwear and bikini bottom that leaves the wearer\'s buttocks mostly uncovered. The director of the infamous music video perhaps best summarizes the content: "I listen to it, and I say, well, this song is about asses."',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Pluto',
+    description:
+      'A planetary body beyond Neptune that was once considered the ninth planet in the Solar System. It was reclassified as a "dwarf planet" in 2006 by a bunch of scientist killjoys at the international Astronomical Union. Thanks, jerks.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Dell Dude',
+    description:
+      'The nickname of an annoying neighbor-boy who enthusiastically tried to sell you a personal ccomputer from the brand that was popular in the 2000\'s. He is best known for his infamous catchphrase as well as his striking resemblance to the philosopher David Barnett.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A stock photography model',
+    description:
+      'A person photographed for use in various advertisements, often in different poses and with props. There are often a handful of stipulations about how the person will be represented, such as not being depicted in HIV or STD pharmaceutical ads.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Allison Bechdel',
+    description:
+      'A cartoonist best known for the comic Dykes to Watch Out For. She is also famous for a "test" named after her, in which a film\'s gender bias is assessed with the following criteria: (1) has at least two women in it, (2) who talk to eachother; (3) about something besides a man.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Matthew McConaughey',
+    description:
+      'An actor and stoner sex symbol who became a star with his role in Dazed and Confused. In recent years, he transitioned from failed romcom star to one of America\'s most praised actors, starring in True Detective and delivering such banal platitudes as "Time is a flat circle."',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Chicken Fingers',
+    description:
+      'Strips of meat made from the pectoralis minor muscles of poultry. They are typically prepared by coating the meat in a breading, deep-frying it, and serving them alongside various dipping sauces, such as ranch, barbecue, and honey mustard.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Ayn Rand',
+    description:
+      'The author of The Fountainhead, Atlas Shrugged, and at least one letter to the editors of Cat Fancy magazine. Her personal philosophy, objectivism, is popular amonst libertarians, horrible political candidates, and angsty teenagers who honestly don\'t know any better.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 2
+  },
+  {
+    name: 'Steve Bartman',
+    description:
+      'The Chicago Cubs fan who deflected a foul ball that many believe Cubs Moisés Alou would have caught during the Game 6 of the 2003 NLCS. He went into hiding after the Cubs went on to lose the series and has declined to speak about the incident in the years since.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'A guy with really great hair',
+    description:
+      'The threadlike strands on his head are just gorgeous. How does he do it?',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Wolf Blitzer',
+    description:
+      'The host of CNN\'s The Situation Room, he is a celebrity journalist and common target for satarists for his particular brand of around-the-clock coverage. He was famously mocked for his attempt to conduct interviews via hologram during the 2008 elections.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Elon Musk',
+    description:
+      'An entrepreneur and inventor sometimes referred to as the real-life Tony Stark. He founded SpaceX and cofounded Paypal and Tesla Motors. One of his more outrageous projects is the construction of a Hyperloop, which is basically a pneumatic tube for transporting people.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Lil B',
+    description:
+      'A prolific Oakland rapper who once created more than 125 Myspace profiles. In 2015, he released an emoji app, helped create a vegan emoji app despite not being vegan, and put a curse on the Houstan Rockets after James Harden didn\'t credit him for creating "the cooking dance."',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: '1000 origami cranes',
+    description:
+      'Ten hundred pieces of paper folded in the shape of a long-necked wading bird. A Japanese legend claims that making them will result in eternal good luck, rather than just one wish. As such, they are a frequent gift to friends and family.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Soylent',
+    description:
+      'A meal replacement product, which "meets all nutritional requirements for an average adult." Its tagline is, inexplicably, "Free Your Body" and its name is derived from a 1973 science fiction film, where the green product in question was actually made from people.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The smoking baby',
+    description:
+      'An Indonesian toddler who became famous when a video was posted of him casually consuming cigarettes. At 2, he allegedly when through 40 per day. His mother reports that he stopped cold turkey, though now subsists on a diet of junk food and condensed milk.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'IKEA Monkey',
+    description:
+      'The nickname of a Japnese snow macaque who was found roaming unattended inside the Swedish furniture chain wearing a thick shearling coat. He was sent to Story Book Farm Primate Sanctuary, though over the years, his owner has lobbied for his return.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Clay Davis',
+    description:
+      'A Maryland State Senator on the HBO series The Wire. Played by Isiah Whitlock Jr., he is depicted as charmingly corrupt and is most associated with his famous catchphrase, "Sheeeeeeeee-it".',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 4
+  },
+  {
+    name: 'Dr. Oz',
+    description:
+      'A surgeon and TV personality, who has been criticized by the medical community for giving non-medically supported health advice. Examples include curing restless leg syndrome by sleeping with a bar of lavender soap and warning about high arsenic levels in apple juice.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'James Lipton',
+    description:
+      'The host of Inside the Actor\'s Studio, known for his distinctive, intonation and affable if at times kiss-ass way with famous actors. Notable questions he has asked include "What do we have to look forward to in Shrek the Third?" and "What attracts you to odd hats?"',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A thigh gap',
+    description:
+      'A space between the top of a person\'s legs that has become a beauty ideal in some communities. Because it is often physically unattainable, it\'s pursuit has led to extreme dieting, eating disorders, and surgery – often encouraged by pro-anorexia "thinspiration" blogs.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A mechanical bull',
+    description:
+      'A machine that recreates the experience of riding a bucking animal. They are typically used recreationally or in training for rodeos. While injuries are rare, most devices contain pressurized airbags, padding bodies, and bucking motion controls.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'A cuckoo clock',
+    description:
+      'A stationary device for telling time that features a small automation bird that reveals itself, chirps, and moves with the tolling of each hour. Dating back to the 18th century, the device has remained unchanged for over 300 years.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'A brain in a vat',
+    description:
+      'A thought experiment that is used to challenge our beliefs about knowledge, reality, and perception. In the scenario, a person is reduced to just their mental organ suspendeded in goo, which recieves electrical impulses that simulate their normal, pre-goo existence in every regard.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'You biological father',
+    description:
+      'Your male parent. Specifically, the person whose seed was used in your creation, typically through the process of scheduled and repeated sexual intercourse with your mother, rather than through adoption or another non-genetic relationship.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'The Official Fleshlight',
+    description:
+      'A sex toy created by Interactive Life Forms LLC. The artifical vagina product was created to look like an oversized flashlight, and is offered in several colors (including limited edition "Avatar" blue), and is available in three orifices: vulva, anus, and mouth.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Wilma Mankiller',
+    description:
+      'The first woman to be elected chief of the Cherokee Nation. In 2015, she was one of four finalists to replace Andrew Jackson on the U.S. $20 bill. The other finalists were more familiar household names: Eleanor Roosevelt, Harriet Tubman, and Rosa Parks.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Job',
+    description:
+      'A biblical prophet renowned for his patience. After losing his children, wealth, and property, he searches for the answer to why God would test his character. He is eventually rewarded by God, with his health, family, and wealth retored and lives to be at least 140 years old.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 2
+  },
+  {
+    name: 'The Hindenburg',
+    description:
+      'A German airship that exploded over New Jersey in 1937. The incident was captured on newsreel, including radio reporter Herbert Morrisons\'s famous commentary, "Oh, the humanity!" The explosion was a public relations disaster for the airship industry.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 1
+  },
+  {
+    name: 'Ken Burns',
+    description:
+      'The documentary filmmaker famous for jazz, The Civil War, Baseball, and many others that focus on American history and culture. He is also associated with a panning and zooming effect, which he uses to make photographs appear more dynamic on video.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: '¯\_(ツ)_/¯',
+    description:
+      'The Atlantic: "The symbol encapsulates what it\'s like to be ... on the Internet. With raised arms and a half-turned smile, it exudes the melancholia ... the acceptance, and finally the embrace of knowing that something\'s wrong on the Internet and you can\'t do anything about it."',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A Beefeater',
+    description:
+      'The nickname of the Yeomen Warders of Her Majesty\'s Royal Palace and Fortress the Tower of London, and Members of the Sovereign\'s Body Guard of the Yeoman Guard Extraordinary. They give directions to tourists and pose for photos.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Krakatoa',
+    description:
+      'A volcanic island located between Java and Sumatra. It is most famous for an 1883 eruption, which resulted in tsunamis that killed tens of thousands and produced the "loudest sound ever heard in modern history." being audible over 3,000 miles away.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Adnan Syed',
+    description:
+      'The central figure in the podcast Serial, who was convicted of murdering his high school girlfriend. In the show, Sarah Koenig delved into the doubts surrounding his case. The show is one of the most popular podcasts in history and sparked international interest in the case.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Patti Mayonnaise',
+    description:
+      'The yellow-haired, polka dot-shirted secret love of the cartoon character Doug. She lives with her wheelchair bound father. Her mother died in the same car accident that paralyzed her father. She is an excellent beet-ball player and gets rude when she is hungry.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'The Doof Warrior',
+    description:
+      'A blind guitarist in the Mad Max franchise, who plays a flame-spewing electric guitar in Immortan Joe\'s militia. According to the universe\'s lore, he was a musical prodigy who was kidnapped and forced to wear his mother\'s face as a mask as he performed.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 4
+  },
+  {
+    name: 'bell hooks',
+    description:
+      'The moniker of the social activist Gloria Jean Watkins. Her work focuses on a postmodern analysis of gender, race, and class. She has been criticized for her willingness to express violent feelings brought on by the indignities she is subjected to as a minority woman.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'Cthulu in love',
+    description:
+      'The cosmic entity created by H.P. Lovecraft that is part octopus, dragon, and human—in a state of deep affection for someone or something.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'A fog machine',
+    description:
+      'A device that creates a dense, artificial vapor. They are often used as a special effect at entertainment events, such as rock concerts, magic shows, various WrestlesMania, moster truck rallies, and faked alien invasions.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Jeeves',
+    description:
+      'A fictional character created by P.G. Wodehouse. He is an especially competent valet for the inept and foppish Bertie Wooster. His character has come to represent an ideal for valets and butlers, so much that his name is now nearly synonymous with manservants.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'The tooth fairy',
+    description:
+      'A fantastical character who gives children money in exchange for the calcified structures in their mouths. The transaction usually involves the child placing the item under their pillow at night, then this character — who is totally not their parent — replaces it with a sum of money.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Skynet',
+    description:
+      'A self-aware, killer AI system in the Terminator film franchise. Originally built by defense contractor Cyberdyne Systems, it attempts to destroy the human race in the interests of self-preservation, beginning with a nuclear war that destroyed most of humanity.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'A Chilean Miner',
+    description:
+      'A victim of an accident in the Atacama Desert in 2010. The workers were trapped 2,300 feet underground for a record 69 days before being rescued one by one via a rescue capsule. The location of the cave-in had long suffered from safety violations.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A gargoyle',
+    description:
+      'An architectural feature in the form of a grotesque creature. They were originally used to shunt rainwater from buildings, but were also used by the Church to convey the concept of evil. Batman is fond of perching on them and they came to life as characters in a 90s cartoon.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'A babushka',
+    description:
+      'A Russian word for "grandmother." It can also refer to a woman\'s headscarf, and is associated with Catherine Breshkovsky, a Russian socialist follower of the anarchist Mikhail Bakunin, and "grandmother of the Russian Revolution."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Blossom',
+    description:
+      'The spunky title character of a 90s sitcom. She was especially influential for her Diane Keaton-like fashion sense, which included the revitalisation of floppy hats. Her quirky world was populated by the likes of her brother Joey ("Whoa!") and her best friend Six.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Angela Lansbury',
+    description:
+      'An actor famous for her starring role as Jessica Fletcher in the hit mystery series Murder, She Wrote. She also became a gay culture icon from her starring role in the Broadway musical Mame.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'A boa constrictor',
+    description:
+      'A large, nonpoisonous snake that kills prey by wrapping its muscular body around them and squeezing until they suffocate. They are often hunted and kept in captivity because of their ornate skin patterns, which has resulted in some subspecies becoming endangered.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'A turducken',
+    description:
+      'A chicken stuffed inside a duck stuffed inside a turkey. A 19th century Indian precursor to the dish involved a sparrow inside a quail inside a grouse inside a chicken inside a turkey inside a goat inside a whole, skinned camel.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Left Shark',
+    description:
+      'A dancer dressed as a cuddly version of a deadly fish, who performed alongside Katy Perry at a Super Bowl halftime show. The character became famous after poorly performing its routine on stage, especially in camparison to its partner on the right.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Mr. Mom',
+    description:
+      'The title character in 1983 comedy starring Michael Keaton. In the film, Keatons\'s character is fired and becomes the primary caretaker to their children, leading to zany scenarios like watching men try to buy items at the grocery store.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'The cake boss',
+    description:
+      'The moniker of chef Buddy Valastro, owner of Carlo\'s Bakery and star of a reality television show about his efforts to create elaborate desserts. A parody of the character by Paul F. Tompkins has supernatural powers that allow him to see the future.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Resting bitch face',
+    description:
+      'A term for the condition where a person, usually a woman, has a neutral expression that some interpret as negative, angry, or upset. A 2015 study found that people with a resemblance to an angry expression were more likely to be preceived as untrustworthy.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'A straight Tetis piece',
+    description:
+      'A tall, single columned block from the classic Soviet video game. The 4 x 1 shpe is often called an I-Block, Line Piece, or I-tetronimo, and is the only way to clear four lines simultaneous, which results in a bonus to the player\'s score.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Madame Tussaud',
+    description:
+      'The namesake of an international chain of wax museums that began with her first sculpture of Voltaire in 1777. The museums now contain hundreds of creepy wax representations of famous celebrities and historical figures that definitely don\'t come to life when you\'re not looking.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+  {
+    name: 'Ozymandias',
+    description:
+      'The title character of a sonnet by Percy Bysshe Shelley, who used the character to reflect that even great individuals and empires fade into oblivion. The name also inspired the internet startup Ozy Media, whose founder believes the poem should encourage you to "dream big."',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Terrible 2\'s Jesus',
+    description:
+      'The son of God as a toddler, specifically during his period of development that was characterized by temper tantrums, saying the word "no," and just really humiliating Mary that one time at the supermarket.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Poo emoji',
+    description:
+      'The unicode character U+1F4A9, a pictoral depiction of a tiny, smiling pile of feces. It is regarded as one of the world\'s most popular visual forms, along with Women with Bunny Ears, Heavy Black Heart, and Smiling Cat Face With Heart-Shaped Eyes.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Gluten',
+    description:
+      'A protein found in wheat, which makes it elastic, helps it rise, and gives it a chewy texture. Individuals with celiac disease have adverse reactions to the protein, and Paleo dieters often believe it to be toxic to all humans and the source of many modern diseases.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A Reiki master',
+    description:
+      'A practitioner of an alternative form of medicine, which supposedly transfers "universal energy" through the hands of the practitioner onto the subject without direct contact. There is no empirical evidence that the practice is medically effective or that "universal energy" even exists.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'A robot butler',
+    description:
+      'A mechanical servant that manages your houshold. They are often depicted in media about the future, such as the character Rosie on the Jetsons. In 2014, a Japanese company intorduced Pepper-kun, who could supposedly recognize and respond to human emotions.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A men\'s rights advocate',
+    description:
+      'A member of a male liberation movement that organizes around the perceived discrimination in areas such as family law, circumcision, and compulsory military service—though their activities tend to focus on harrassing and bullying others about video games for some reason.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Michael Caine',
+    description:
+      'An Academy Award winning actor known for his distinctive Cockney accent. He is often impersonated using phrases like "A lot of people don\'t know that" and "She was only 16 years old." His recent roles include playing Alfred in the Christopher Nolan Batman films.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'MacGyver',
+    description:
+      'The title character from the 80s TV show about a secret agent who makes clever little devices out of whatever\'s around. These include a defibrulator (candle sticks, microphone wire, rubber mat) and a catapult (branches. rock, twine, rosary beads).',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Butthole Surfers',
+    description:
+      'An American rock band that developed a cult following in the 80s and scored a hit with "Pepper" in 1996. The band\'s name describes a jerky extreme sportsman by using an adjective that is slang for a person\'s anus.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'A wet blanket',
+    description:
+      'A term for a person who dampens enthusiasm, is habitually negitive, or ruins the good times of others. When not being described as a soaked bed covering, this type of person is often referred to as a killjoy, party pooper, or a real stick in the mud.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Marcel the Shell',
+    description:
+      'The title character of a stop-motion short film about the anthropomorphic outer case of a mollusk. Voiced by Jenny Slate, he has a French-sounding name but, oddly, an American accent? He has shoes on, wears a lentil for a hat, and skis on his toenails from a man.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Walt Disney\'s frozen head',
+    description:
+      'The severed, chilled top part of the world-famous artist and entrepreneur who created Hollywood\'s most famous animated films. Contrary to popular belief, he was not preserved through cryogenics and his body is definitely not stored under the Pirates of the Caribbean ride.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+  {
+    name: 'Oysters, clams, and cockles!',
+    description:
+      'Three varieties of mollusc that are apparently quite popular on the docks of Braavos. Arya Stark shouts the name of these delicacies as she pushes her seafood card in a frankly convoluted and implausible quest to get closer to her assassination target.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'A Tribble',
+    description:
+      'A fictional alien species from the Star Trek franchise. Seemingly harmless purring furballs, their prodigious breeding once threatened to overrun the Enterprise. They have also been a scourage to the Klingon Empire, descimating the food stocks of several planets.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Air Bud',
+    description:
+      'The title character of a 1997 family comedy about a Golden Retriever who can play basketball. The actor who player the talented K-9 also appeared on America\'s Funniest home Videos, The Late Show with David Letterman, and played Comet on ABC\'s Full House.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'The Cryptkeeper',
+    description:
+      'An animated corse who hosted a late night horror show on HBO. Episodes began with him emerging from a coffin and cackling uncontrollably. He was also known for introducing segments with terrible puns, such as "Frights, camera, action!"',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Jigglypuff',
+    description:
+      'A pink, gelatinous Pokémon with big blue eyes and a cute little tuft of hair. It uses its eyes to hypnotize opponents, then puts them to sleep with a lullaby. It evolves from Igglybuff (with high friendship) and evolves to Wigglytuff (when exposed to a Moon Stone).',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'The man who mistook his wife for a hat',
+    description:
+      'The subject of a book by the neurologist Oliver Sacks about "Dr P.," a person with visual agnosia, or the inability to recognize objects visually. In the case study, Sacks witnesses Dr P. confuse his spouse for a head covering. The condition is the result of severe brain damage.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'The octopus that predicted the World Cup (Paul)',
+    description:
+      'A cephalopod who many believed was able to foretell the result of a 2010 international soccer competition. His keepers presented him with two boxes of food, identical except with a different nation\'s flag on it. He correctly chose the winner in all seven matches he divined.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'The fish that eat your foot skin as a pedicure',
+    description:
+      'Aquatic animals that are used in a spa treatment, where they feed on the outer layer of customers\' lower extremities in order to treat conditions such as psoriasis. The CDC "is not aware of any published reports on illness" resulting from this process.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'The Spanish woman who botched repainting of Jesus',
+    description:
+      'An amateur artist who attempted to restore a painting of the Son of God. The work, "Ecce Homo," was rechristened by the internet to "Ecco Mono," or Behold the Monkey, because of its resemblance to a "crayon sketch of a very hairy monkey in an ill-fitting tunic."',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'The trillions of bacteria on your body right now',
+    description:
+      'The innumerable microorganisms that are currently living and dying in and around the person readig this card. The largest concentration, weighing around 1-2 pounds, is found in the vast, gross, smelly wilderness of your intestinal tract.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'The guy who asked a German cannibal to eat him',
+    description:
+      'The person who willingly offered to be consumed by a central European member of a fetish site. The victim\'s penish was first amputated, and before he died , the two attempted to share the dish—though its preparation was botched and eventually was served to a dog.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'The North Korean General executed with an anti-aircraft gun',
+    description:
+      'A military leader who was reportedly put to death by Kim Jong-un for falling asleep at a military rally. While initial reports claimed that he was killed with a large weapon typically used to shoot down airplanes, it remains unclear if any part of the story is true.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'The enormous pile of garbage floating in the Pacific Ocean',
+    description:
+      'A collection of plastic marine debris located approximately between 135°W to 155°W and 35°N and 42°N. Size estimates range from the size of Texas to twice the size of the continental United States. While predicted by scientists, it was first discovered by a racing boat captain.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The guy who waved ISIS flag covered in dildos',
+    description:
+      'At a 20115 gay rights rally in London, CNN ran a segment that this person was seen unfurling and displaying the banner of the radical Islamist group. The artist, Paul Coombs, claims to have flown it because "[this organization] is deserving of mockery and disrespect."',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Ashley Madison',
+    description:
+      'A dating website for having affairs. Hackers revealed that 90-95% of women users were fake. Referring to the site\'s name, Buzz Anderson speculated that the company wanted "to suggest someone who is DTF, but also probably traces their ancestry back to the Mayflower."',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Bubble wrap',
+    description:
+      'A plastic packing material containing spaced, air-filled pockets that provide a cushion for fragile items. When popped, the air pockets, often create a delightful sound—leading to the creation of an annual Appreciation Day for the product on the last Monday of January.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Drake',
+    description:
+      'The stage name of Canadian rapper and actor Aubrey Graham, who got his start on the teen drama Degrassi. In 2015, his dancing in the video "Hotline Bling" was described by Rembert Browne as "how you dance when a public space becomes your living room."',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Seal',
+    description:
+      'The stage name of musician and model Henry Olusegun Adeola Samuel. He is most famous for his ballad "Kiss from a rose" from the 1995 Batman Forever soundtrack. He is also easily recognizable due to his facial scars—from a bout of lupus—and prominent tooth gap.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'The Vagina Monologues',
+    description:
+      'An episodic play written by Eve Ensler featuring a series of solo performances—each touching on a different aspect of the female experience and sexuality. It is performed throughout the world on February 14 as part of the V-Day movement.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The Westboro Baptist Church',
+    description:
+      'A hate group known for picketing funerals, including those of hate-crime victims and mass-shooting victims. The group later began picketing the funerals of American soldiers, claiming that God was punishing the US for allowing homosexuality to exist.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Shrimp fingers',
+    description:
+      'A gag in which a person puts the hollowed out heads of red, free-swimming crustaceans on their tactile members and wiggles them around to amuse their dining companions.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Tigger',
+    description:
+      'A fictional tiger with a springy tail and a love of bouncing. He lives with Winnie-the-Pooh in the Hundred Acre Wood. While he often overestimates his own abilities, his boast that never gets lost seems to be true.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Jackie Chan',
+    description:
+      'A martial artist, film director, and one of the greatest comic actors of all time. He is best known for his unique blending of action and comedy, meticulous directorial style, and prolific filmography: to date, he has appeared in 150+ films across Asian and North American cinemas.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Kegels',
+    description:
+      'Also known as pelvic floor exercises, an activity in which a person repeatedly contracts and relaxes the muscles that control urination. This is typically done to either control incontinence, enhance sexual reponsiveness, or prevent premature ejaculation.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Guy Fieri\'s Donkey Sauce',
+    description:
+      'The signature mayonnaise-based, pale orange condiment invented by a famous cooking personality known for his frosted tips and goatee. He claims to have coined the term while working in the kitchen of a Carnival Cruise ship.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'The sound of one hand clapping',
+    description:
+      'A zen koan that asks what you would hear if a single human paw did the action that is typically done by smacking two human paws into each other. This is unrelated to the question "If a tree falls in the forest and no one is around to hear it, does it make a sound?"',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Sleep paralysis',
+    description:
+      'A phenomenon where a person cannot move, speak, or react between the period of wakefulness and bodily inactivity. One explanation is that when individuals\' REM cycles are disrupted, they are held in place to prevent them from physically acting out their dreams.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'El Chapo',
+    description:
+      'The nickname of Joaquín Guzmán, a Mexican Drug lord and head of the Sinaloa Cartel. He is perhaps most famous for a recent prison escape that included an intricate series of tunnels and an "adapted motorcycle on tracks that was likely used to remove dirt during the excavation."',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Sheryl Sandberg',
+    description:
+      'Chief Operating Officer of Facebook and author of Lean In: Women, Work, and the Will to Lead. In it, she assesses the barriers keeping women from leadership, and suggests that the only solution is for women to strive for leadership roles.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Big Mouth Billy Bass',
+    description:
+      'An animatronic mounted game fish that moves and sings kitschy covers of "Don\'t Worry Be Happy" and "Take Me to the River." Al Green claims that the royalties from this version are more than the royalties from any other version of "Take Me to the River."',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'The dentist who shot Cecil the Lion (Walter Palmer)',
+    description:
+      'The Minnesota tooth specialist and recreational hunter who killed a famous Zimbabwean cat in 2015. Protests over his actions led to him being unable to work for a time and requiring "a modest police presence" when he finally returned to his practice.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'Senpai',
+    description:
+      'A Japanese honorific used when speaking to mentors. In anime, the term is often used to express an individuals\' desire to be recognized, e.g. "Has [this person] Noticed Me Yet?" The Office\'s Dwight Schrute believes that being one makes him an Assistant Sensei.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The Little Prince',
+    description:
+      'The title character of an illustrated novella by the French writer and aviator Antoine de Saint-Exupéry. The fourth-most-translated book in the world, it tells the story of a boy who falls to Earth from a tiny asteroid and befriends a pilot stranded in the desert.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Martin Shkreli',
+    description:
+      'Disgraced finance bro, pharmaceutical executive, League of Legends player, and owner of the sole copy of the Wu-Tang Clan\'s album Once Upon a Time in Shaolin. He became known as the "most hated man in America" after increasing the cost of the drug Daraprim by 5556%.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'The guy who amputated his own arm',
+    description:
+      'An outdoorsman who removed one of his limbs with a dull pocket knife in order to free himself from a boulder that had trapped him for over five days. The event was dramatized in the 2010 film 127 Hours, starring James Franko.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A 56K modem',
+    description:
+      'An outdated piece of computer hardware that connects a user to the internet through sound waves over a telephone network. These are often associated with a soundscape of beeps, boops, crackles, crunches, hisses, pauses, beeboops, reroo-re-roos, and rrrrrrrrrrrppppppffffftzs',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A stage mom',
+    description:
+      'The female parent of a child performer. This term often holds a negative connotation, specifically that the parent is fulfilling their own aspirations, or are placing pressure on the child. Reality television has revived this stereotype with shows like Here Comes Honey Boo Boo.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A sneeze guard',
+    description:
+      'A large glass screen in restaurants to protect food from customers expelling air from their nostrils and mouth onto food. In the 60s, the US FDA mandated their presence in restaurants that had prepared food in close contact with a line of customers.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'An ankle moniter',
+    description:
+      'A homing device that monitors individuals placed under house arrest. They contain a transmitter to notify police if the wearer moves outside a certain range. A 2006 study suggests that their use was "similar to other prison diversion programs."',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Hilary Clinton dabbing',
+    description:
+      'The former US Secretary of State, First Lady, and Senator doing a hip-hop dance popularized by southern rappers and NFL QB Cam Newton. The dance "resembles proper sneezing etiquette," where the dancer leans into their elbow while raising their hands.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Patti LaBelle\'s Sweet Potato Pie',
+    description:
+      'A sugary and starchy dessert from an R&B singer known for her baking prowess. After a YouTube video review by James Wright went viral, this product became one of Walmart\'s most requested items.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'The word "açaí"',
+    description:
+      'The name of a trendy purple berry of a Latin American palm tree. It is pronounced phonetically as ah-sah-EE – which honestly is not super helpful, because you can\'t say that when giving a clue.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Patrick Bateman',
+    description:
+      'The jump-roping, axe-murdering, Huey Lewis-loving, business card-obsessed antihero of the novel American Psycho by Bret Easton Ellis. He is now most associated with Christian Bale\'s iconic performance in the 2000 film adaptation.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'International waters',
+    description:
+      'Oceans and other liquid bodies that transcend national boundries. They can be used for illicit activities autside national jurisdiction, such as gambling, piracy, duty-free shopping, whaling, and monkey knife fights.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A spicy meatball',
+    description:
+      'A phrase from a classic 1969 Alka-Seltzer commercial. The concept has an actor self-referentially attempting to say the line—proceded by "Mama mia, that\'s..." —in an Italian accent as his wife serves him a plate of spaghetti.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A horse with no name',
+    description:
+      'An equine character from a 1971 song by the band America. The song has recieved criticism for lyrics such as "there were plants and birds and rocks and things." When askd by Penn Jillette, the band mambers unsurprisingly claimed to have been high when they wrote the song.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Helicopter parents',
+    description:
+      'A mother and father who are overly engaged in their child\'s experiences and activities. In the US, they are associated with a certain aircraft, but in other countries they are associated with bulldozers, cosseting, and curling.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Chemtrails',
+    description:
+      'A conspiracy theory that the lines that follow aircraft in the sky—actually made of water vapor—are chemical/biological agents. While there is no evidence for this, claims range from psychological manipulation to population control to weather modification.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Boaty McBoatface',
+    description:
+      'The proposed name of a $300M polar research ship, after the moniker easily won an internet poll from over 7,000 submissions. A government official suggested that the name would not be used: "riding roughshod over democracy" and leaving the ship\'s identity in limbo.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Hootie and the Blowfish',
+    description:
+      'A rock band, led by Darius Rucker, that was famous in the 90s for their platinum debut album, Cracked Rear View—the 16th-best-selling album of all time in the US. The album included the tracks "Only Wanna Be with You," "Hold My Hand," "Let Her Cry," and "Time."',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Pandora',
+    description:
+      'The first woman created by the gods, whose name means "all gifted." In the myth, she opens a jar—commonly mistranslated as a box—and releases all the evils of humanity, leaving Hope inside. The story is one of the first attempts to answer why evil exists in the world.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Slim Goodbody',
+    description:
+      '"The Superhero of Health" from the PBS show Inside Story. He was created and played by John Burstein in a flesh-colored unitard painted with internal organs, muscles, and tissue in anatomically correct sizes and locations.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Monty Python',
+    description:
+      'A British comedy troupe known for their Flying Circus, as well as movies about the Holy Grail and the Life of Brian. They are also known for famous sketches such as "The Lumberjack Song," "The Ministry of Silly Walks," and "Spam."',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Selfie monkey',
+    description:
+      'A primate who took a series of photographs of itself using a nature photographer\'s camera. This led to a copyright dispute when the images were posted on Wikimedia Commons, sparking conversation about whether copyright could be claimed on work by non-humans.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Prancercising lady (Joanna Rohrback)',
+    description:
+      'The inventer of an exercise method characterized by a form of skipping. Describing her inspiration for the technique, she claims that "there must have been an exceptionally good song on my Walkman."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A knock knock joke',
+    description:
+      'A pun-based, five-line all and response. Typically the first character, "The Punster," acts as if they are striking the second character\'s door, "The Recipient," who asks "Who\'s there?" Hilarity ensues when The Punster replies with a dimly clever construction.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A pratfall',
+    description:
+      'A technique in physical comedy where the performer trips, often landing on their bottom. The effect is often enhanced by multiple spills, either over time, as in John Ritter\'s character from Three\'s Company, or in a row, as in Jay Johnson\'s "Story Of Everest" scene from Mr. Show.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Vocal fry',
+    description:
+      'The lowest vocal register, which is created by a loose glottal closure that causes a popping or rattling sound. In recent years it has been associated by some researchers with girls and women seeking unconsciously to give their voice more credibility.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A copy of a copy of a copy',
+    description:
+      'A caption from an animated gif from the film Fight Club. It mocks the faux-insightfulness of the observation, while also being used as a blasé reaction to content being reposted multiple times.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Rube Goldberg',
+    description:
+      'A cartoonist and inventor most famous for his drawings of complex machines that perform simple tasks such as brushing teeth or eating spaghetti. His drawings inspired many imitators, including the game MOusetrap and the dog food machine from Back to the Future.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 2
+  },
+  {
+    name: 'Magic missile',
+    description:
+      'A first-level evocation spell in the roleplaying game Dungeons & Dragons. In 5th Edition rules, the spell produces "three glowing darts of magical force," dealing 1d4+1 force damage to the target for each successful hit.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Marie Kondo',
+    description:
+      'The Japanese author of the book, The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing. Her method, KonMari, involves keeping only possessions that "spark joy" and thanking discarded objects for their service.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Déjà vu',
+    description:
+      'From the French for "already seen," a sensation where a person has the feeling that they have experienced the event that is currently taking place. A 2004 survey suggests that 2/3 of individuals have had this feeling of "precognition" at some point in their lives.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Voldemort',
+    description:
+      'HE-Who-Must-Not-Be-Named from the Harry Potter universe of J.K. Rowling. In the novels, this character is the archenemy of Harry Potter, who is the only wizard with the power to vanquish him, and is on a quest to rid the world of non-magical Muggles.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Decorative gourd season',
+    description:
+      'The time of the year when you place ornamental, flashy fruit around your house. In a McSweeney\'s article, the author is fucking jazzed about celebrating fall by putting these shellacked motherfuckers in a wicker basket, and maybe ever adding some multi-colored fucking leaves.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'DJ Hordor',
+    description:
+      'The stage name of Kristian Nairn, the double threat who depicts a near-mute stableboy on HBO\'s Game of Thrones, while also performing under this moniker when he plays music at clubs and parties.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A wet willy',
+    description:
+      'A childhood prank where one individual licks their finger and surprises a victim by vigorously inserting the moistened finger into their ear canal. It is often accompanied by a twisting or pumping motion. Justin\'s toddler thinks it is hilarious.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Mother\'s skin',
+    description:
+      'The soft outer body covering of the woman who gave birth to and/or raised you.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Justin Bieber\'s monkey (OG Mally)',
+    description:
+      'The pet primate of the Canadian singer known for hits such as "Where Are Ü Now." The animal was seized by German authorities at Frankfurt Airport when the star was not able to produce the necessary paperwork. He now lives comfortably at a wildlife park in Germany.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'The manosphere',
+    description:
+      'The name for a collection of blogs, forums, and websites that are dedicated to men, masculinity, pick-up artistry, and general male interests. These sites encourage anti-feminist and misogynistic behavior. Sites include Reddit\'s Red Pill and Roosh V\'s Return Of Kings.',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'Ammon Bundy',
+    description:
+      'An anti-government provocateur who led an armed occupation of a federal building in Oregon. When the group requested supplies from supporters, the internet instead sent a variety of vibrators, dildos, and in one case, a 55-gallon drum of personal lubricant.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'An AIDS quilt',
+    description:
+      'A blanket created as a memorial to commemorate individuals who died from the advanced stages of HIV. The largest weighed neraly 54 tons, with panels as large as 3 feet by 6 feet. It was displayed on the National Mall in 1987 at the height of the epidemic.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Old Man Marley',
+    description:
+      'The kindly neighbor of Kevin McCallister in the film Home Alone. Kevin initially believes him to be the serial killer known as The Southbend Shovel Slayer, who gets rid of the evidence—his victims\' bodies—by turning them into salt and then using them to salt the sidewalks.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Bane',
+    description:
+      'A member of Batman\'s Rogues Gallery. In the comic, he is a Russian assassin who gains super strength by injecting a substance called Venom and breaks Batman\'s back. Tom Hardy plays him in The Dark Night Rises, affecting a muffled indeterminate accent.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Bernie from Weekend at Bernie\'s',
+    description:
+      'The title character of the 1989 screwball comedy and its 1993 sequel about two low-level financial employees pretending that their dead boss is alive. They achieve the illusion by defiling his corpse in a myriad of ways and allowing his body to be used in acts of necrophilia.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Bill Murray',
+    description:
+      'A comedian famous for his roles on SNL, Caddyshack, Groundhog Day, and Wes Anderson films. A frequent meme describes this person approaching a stranger, doing something outlandish, and saying "No one will ever believe you," before walking away.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'A person who is actually three children under a trench coat',
+    description:
+      'How do they get away with it?',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'A hot mess',
+    description:
+      'A slang term to connote a person with a spectacularly high level of disorganization, potentially with undertones of remaining attractive despite this condition. Previously, the term meant either "a situation that was confusing in some way" or  "warm food served to soldiers."',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Dad bod',
+    description:
+      'In the article Why Girls Love [this thing], the author describes the fitness condition as "a nice balance between a beer gut and working out. [It] says, \'I go to the gym occasionally, but I also drink heavily on the weekends and enjoy eating eight slices of pizza at a time.\'"',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'BB-8',
+    description:
+      'A droid from the Star Wars universe with a spherical white body. On the podcst Reply All, Alex Goldman noted that on anti-diversity forums, advocates were upset that in the new film "the only character for white men to identify with was the powerless white cuck ball."',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 1
+  },
+  {
+    name: 'Light as a feather, stiff as a board',
+    description:
+      'A game played at slumber parties, where one person lies on the floor, while others attempt to lift them with only fingertips underneath the body. This is sometimes accompanied by incantations, such as repeating "She\'s looking ill" and "She\'s looking worse."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Yakety Sax',
+    description:
+      'A 1963 pop-jazz recording that has been used for decades in TV, films, and Internet culture—but most famously as The Benny Hill Theme. It soundtracks especially ridiculous moments of physical comedy and can be summarized by the equation: Anything + This Song = Funny.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A bag of dicks',
+    description:
+      'A container filled with male sex organs. The term was invented by Louis CK, who wondered whether the itme is "like a plastic [container] and they\'re all mushed together like chicken parts...or is it like a paper [container] and they\'re sticking out like baguettes?"',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'A butterfly fuck-swing',
+    description:
+      'A harness used in sexual intercourse where one partner is suspended by the device while another remains free-standing. Most include separate support for the back and buttocks, plus stirrups for each leg. A 2016 article in The Onion describes one couple\'s as "filled with junk mail."',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Donald J. Trump',
+    description:
+      'Real estate icon, short-fingered vulgarian, and 45th President of the US. His administration was marked by right-wing extremism, including a ban on Muslims entering the US, mass deportation, and a Constitutional crisis when military leadership refused to torture terror suspects.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Ahmed Mohamed',
+    description:
+      'A 14-year-old who was detained by the poice for bringing a re-assembled clock to school. Because of the clock\'s vague resemblance to a bomb, he was handcuffed and detained by the police—raising questions about racial profiling of Muslims in the US.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'Buff Jesus',
+    description:
+      'The son of God with a ripped bod. In addition to having fabulous muscles, he is often depicted as tearing Himself down off the cross, on a rearing horse, or holding automatic weapons.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+  {
+    name: 'A wheelie',
+    description:
+      'A stunt performed while riding a bicycle or motocycle. In it, the rider pushes off the back tire, causing the front tire to extend off the ground as the rider moves around like a badass. The first documented one of these was accomplished by Daniel J. Canary in 1890.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Marcia Clark',
+    description:
+      'The lead prosecutor in the OJ Simpson trial. As the only female attorney in the case, she was subject to intense scrutiny regarding her appearance and demeanor, including constand discussion of her hair and publication of nude photos taken 20 years before the case.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+    {
+    name: 'Peek-a-boo!',
+    description:
+      'A game played with babies, where the adult hides their face with their hands, then opens their hands while saying the phrase "I see you!" Psychologists believe that babies repond to this game because they lack object permanence.',
+    category: 'ET CETERA',
+    pointValue: 1
+  },
+  {
+    name: 'Squirtle',
+    description:
+      'A water-type species of Pokémon that resembles a blue turtle with a curly tail — and one of the 3 starter Pokémon from the original games. At level 16, it evolves into Wartortle, and at level 36, evolves into its final form, Blastoise. Its Japanese name is Zenigame.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Fermat\'s Last Theorum',
+    description:
+      'The yet-unproven mathematical conjecture that states: No three positive integers a, b, and c satisfy the equation a^n + b^n = c^n for any integer value of n strictly greater than two. The Guiness Book of World Records considers it "the most difficult math problem."',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Hot dog legs',
+    description:
+      'An internet meme where individuals guess whether two tan, fleshy protuberances in a photo are the bare bottom limbs of a person or two cooked sausages. Typically these photos are taken in a first-person selfie style.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Zardulu',
+    description:
+      'A mysterious performance artist who may be responsible for "Pizza Rat" and "Selfie Rat." She allegedly has an army of trained rats. Her bio reads: "I am the Mythmaker. Myths are dreams we dream together and are not our greatest dreams the ones we believed were real?"',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Robin Williams',
+    description:
+      'An iconic comic and actor, who starred in films such as Good Mourning, Vietnam; Dead Poets Society; Aladdin; Good Will Hunting; and Mrs. Doubtfire. Known for his manic personality, he struggled with drug addiction and depression throughout his life.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Katamari',
+    description:
+      'A magic ball of detritus from a video game bearing its name that allows anything smaller than it to stick to it and cause it to grow. In the game the player character Prince uses the ball to gradually collect enough stuff in the universe so that his God-like father can remake the stars.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'The world\'s smallest violin',
+    description:
+      'What you use to play the world\'s saddest song. It is typically accompanied by rubbing your thumb and index finger together in imitation of playing this instrument, and is typically deployed to mock someone exaggerating a difficult experience to garner sympathy.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'Howard Dean',
+    description:
+      'The former Governer of Vermont who came to national attention during the run for President in 2004. While his campaign pioneered new ways to leverage the internet in political compaigns, he remains most known for an infamous scream he game during an Iowa Caucus rally.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 2
+  },
+  {
+    name: 'The Ark of the Covenant',
+    description:
+      'A wooden chest clad with gold containing the two stone tablets of the Ten Commandments, Aaron\'s rod, and a pot of manna. Though in the first Indiana Jones film, it instead contains face-melting angels that kill Nazis.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 3
+  },
+  {
+    name: 'Mr. Snuffleupagus',
+    description:
+      'Big Bird\'s imaginary friend on the PBS show Sesame Street. Despite being a large, tuskless wooly mammoth, for 16 seasons, no other characters were able to see this character — leading Big Bird to use him as a scapegoat whenever something would go wrong.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 2
+  },
+  {
+    name: 'Mr. Poopy Butthole',
+    description:
+      'A long-time friend of the Smith family from the cartoon Rick & Morty. He is perpetually happy and the Smith family has no bad memories of him. Though his name would suggest a fould scent and disgusting appearance, in reality he is just a tall yellow man in a tophat.',
+    category: 'FICTIONAL CHARACTER',
+    pointValue: 3
+  },
+  {
+    name: 'Tracy Flick',
+    description:
+      'A candidate for high school president from the novel Election. While most would call her an overachiever, she just thinks they\'re jealous. She was prtrayed by Reese Witherspoon in the film adaption with a strong Midwestern accent and clipped speech.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Nude Tayne',
+    description:
+      'The Not Suitable For Work beta squence in the Celery Man short starring Paul Rudd. The dancer created in this sequence of the Cinco Identity Generator 2.5 wears only black boots, a gold chain, sunglasses, and a black fedora.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'The Cherry Poppin\' Daddies',
+    description:
+      'A third-wave ska band that reached mainstream success with their album Zoot Suit Riot during the 90s swing revival. A previous, punk version of the band was famous for its on-stage stunts, notably the use of a "Dildozer," a penis-shaped mower that ejaculated fluid from its hood.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'The 5-second rule',
+    description:
+      'A folk belief that food dropped on the floor is still edible if it is retieved within a short amount of time. There is currently no scientific consensus on whether it is more safe to eat food that has spent only a short amount of time on the floor.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'A vestigial tail',
+    description:
+      'A flexible appendage, extending from the coccyx, that is present on human foetusus for 4 weeks during embryogenesis. Very rarely, babies are born with this feature: according to Wikipedia, 23 cases have been reported since 1884—all of which were surgically removed.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Ed Hardy',
+    description:
+      'A clothing designer known as "the Godfather of madern Tattoo." On the website Stuff White People LIke, hating poeple who wear these shirts ranks as #124, and this person\'s clothing is so reviled that, "like Ku Klux Klan robes or Nazi uniforms, it cannot even be worn ironically."',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Henry Wadsworth Longfellow',
+    description:
+      'A 19th-century writer and member of the Fireside Poets. He wrote several lyric poems, including Paul Revere\'s Ride. He was also the first American to translate The Divine Comedy, for which he created the group of writers known as The Dante Club. He has a funny name.',
+    category: 'HISTORICAL FIGURE',
+    pointValue: 4
+  },
+  {
+    name: 'Uma Thurman',
+    description:
+      'An actor famous for her role in The Truth About Cats & Dogs, Batman & Robin, Kill Bill, and Pulp Fiction. In the latter, she plays Mia Wallace, the wife of a mafia boss, who has to have an adrenaline shot injected directly into her heart after overdosing on heroin.',
+    category: 'CELEBRITY',
+    pointValue: 1
+  },
+  {
+    name: 'Dick Butkus',
+    description:
+      'A former NFL linebacker, actor, and broadcaster. He played for the Chicago Bears from 1965-1973 and was inducted into the Pro Football Hall of Fame. He is considered one of the best linebackers in football history. But in the context of this game , he just has a silly, silly name.',
+    category: 'CELEBRITY',
+    pointValue: 2
+  },
+  {
+    name: 'Occam\'s Razor',
+    description:
+      'A problem-solving concept advanced by the 14th century logician and Franciscan friar that roughly means "The simplest explanation is usually the correct one." It is however, merely a heuristic, not a law of the universe and therefore sometimes wrong.',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'The hitchhiking robot',
+    description:
+      'A mechanical being that traveled across Canada and Europe by asking motorists for a ride. On a trip across the US, its body was found decapitated near Philadelphia. Ironically, its inventors created it as a social experiment about whether these being can trust humans.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'A guy talking to your baby at night through an unsecured baby monitor',
+    description:
+      'The person who hacked a family\'s radio system designed to listen to their infant. When discovered, the parents overheard such chilling phrases as "Wake up little boy, daddy\'s looking at you," and "Look, someone\'s coming into view."',
+    category: 'ET CETERA',
+    pointValue: 4
+  },
+  {
+    name: 'North American Man/Boy Love Association (NAMBLA)',
+    description:
+      'A pedophile and pederasty advocacy organization. It works to abolishage-of-consent laws and for the release of men imprisioned for sex with underage people where there was no "coercion" (whatever that means).',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Cecil the Lion',
+    description:
+      'A famous Zimbabwean cat who was killed by Minnesota dentist and recreational hunter Walter Palmer in 2015. The cat\'s death led to a wave of negative publicity and regulations making it more difficult to US citizen hunters to kill protected species when trophy hunting.',
+    category: 'CELEBRITY',
+    pointValue: 3
+  },
+  {
+    name: 'Slavoj Žižek',
+    description:
+      'A psychoanalytic and Marxist philosopher whos popularizing work has made him a prominent critic of capitalism. He is now perhaps most famously known for his two documentaries, The Prevert\'s Guide to Cinema and The Pervert\'s Guide to Ideology.',
+    category: 'CELEBRITY',
+    pointValue: 4
+  },
+  {
+    name: 'The middle seat',
+    description:
+      'The least desired place to sit while riding on a tain, plane, car, boat, or other mode of transportation—typically because you are scrunched between two or more other human beings. When you sit here, you are often said to be "riding bitch".',
+    category: 'ET CETERA',
+    pointValue: 2
+  },
+  {
+    name: 'The uncanny valley',
+    description:
+      'The effect produced by an image or object that looks and moves almost, but not quite, like a real person. It triggers feelings of revulsion in many people and is most often associated with animatronics and computer-generated graphics.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'Flint, Michigan',
+    description:
+      'A city in the Great Lakes State. It is often listed among the "Most Dangerous Cities in the US" and recently has been in a public health crisis from high amounts of lead in the local water supply.',
+    category: 'ET CETERA',
+    pointValue: 3
+  },
+  {
+    name: 'The parasite that eats a fish\'s tongue',
+    description:
+      'A louse that enters a cold-blooded vertebrate\'s body through the gills and attached itself to the mouth\'s muscular organ. After the organ has fallen off, the louse attaches itself to the remaining stub and replaces the organ, feeding on its host\'s blood and mucus.',
+    category: 'ET CETERA',
+    pointValue: 4
   }
+
 ];
 /* eslint-disable */
